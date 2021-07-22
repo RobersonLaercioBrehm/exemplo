@@ -10,3 +10,4 @@ echo "Muito obrigado a todos, tchau.....";
 
 echo "Alteração no note";
 echo "Alteração no note2";
+echo "Alteração no note3";
