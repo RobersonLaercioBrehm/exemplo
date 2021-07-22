@@ -1,1 +1,1 @@
-[ ] - Lorem ipsum
+[x] - Lorem ipsum
