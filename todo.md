@@ -1,1 +1,2 @@
-[x] - Lorem ipsum
+- [x] Lorem ipsum
+- [x] Subir para o github
